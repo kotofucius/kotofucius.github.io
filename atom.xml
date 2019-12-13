@@ -89,9 +89,9 @@
     
       <category term="Konan Yako" scheme="https://kotofucius.github.io/categories/engr/Konan-Yako/"/>
     
-      <category term="Kuromori Suzu" scheme="https://kotofucius.github.io/categories/engr/Kuromori-Suzu/"/>
-    
       <category term="Fujii Shizuku" scheme="https://kotofucius.github.io/categories/engr/Fujii-Shizuku/"/>
+    
+      <category term="Kuromori Suzu" scheme="https://kotofucius.github.io/categories/engr/Kuromori-Suzu/"/>
     
       <category term="Yakumo Chizuru" scheme="https://kotofucius.github.io/categories/engr/Yakumo-Chizuru/"/>
     
@@ -204,9 +204,9 @@
     
       <category term="Kuromori Suzu" scheme="https://kotofucius.github.io/categories/engr/Kuromori-Suzu/"/>
     
-      <category term="Enjouji Reika" scheme="https://kotofucius.github.io/categories/engr/Enjouji-Reika/"/>
-    
       <category term="Angie (Anzu)" scheme="https://kotofucius.github.io/categories/engr/Angie-Anzu/"/>
+    
+      <category term="Enjouji Reika" scheme="https://kotofucius.github.io/categories/engr/Enjouji-Reika/"/>
     
       <category term="Yakumo Chizuru" scheme="https://kotofucius.github.io/categories/engr/Yakumo-Chizuru/"/>
     
@@ -235,15 +235,15 @@
     
       <category term="enst" scheme="https://kotofucius.github.io/categories/enst/"/>
     
-      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
-    
       <category term="Teachers" scheme="https://kotofucius.github.io/categories/enst/Teachers/"/>
     
-      <category term="Yuuki Makoto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Yuuki-Makoto/"/>
+      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
     
       <category term="Sagami Jin" scheme="https://kotofucius.github.io/categories/enst/Teachers/Sagami-Jin/"/>
     
       <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
+    
+      <category term="Yuuki Makoto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Yuuki-Makoto/"/>
     
       <category term="Hidaka Hokuto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Hidaka-Hokuto/"/>
     
@@ -278,17 +278,17 @@
     
       <category term="Transfer Student (Anzu)" scheme="https://kotofucius.github.io/categories/enst/Transfer-Student-Anzu/"/>
     
-      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
+      <category term="MaM (Mikejima Madara)" scheme="https://kotofucius.github.io/categories/enst/MaM-Mikejima-Madara/"/>
     
       <category term="Teachers" scheme="https://kotofucius.github.io/categories/enst/Teachers/"/>
     
-      <category term="MaM (Mikejima Madara)" scheme="https://kotofucius.github.io/categories/enst/MaM-Mikejima-Madara/"/>
-    
       <category term="Switch" scheme="https://kotofucius.github.io/categories/enst/Switch/"/>
     
-      <category term="Sagami Jin" scheme="https://kotofucius.github.io/categories/enst/Teachers/Sagami-Jin/"/>
+      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
     
       <category term="Valkyrie" scheme="https://kotofucius.github.io/categories/enst/Valkyrie/"/>
+    
+      <category term="Sagami Jin" scheme="https://kotofucius.github.io/categories/enst/Teachers/Sagami-Jin/"/>
     
       <category term="Hidaka Hokuto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Hidaka-Hokuto/"/>
     
@@ -345,29 +345,29 @@
     
       <category term="enst" scheme="https://kotofucius.github.io/categories/enst/"/>
     
-      <category term="Transfer Student (Anzu)" scheme="https://kotofucius.github.io/categories/enst/Transfer-Student-Anzu/"/>
-    
-      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
-    
       <category term="2wink" scheme="https://kotofucius.github.io/categories/enst/2wink/"/>
     
-      <category term="Teachers" scheme="https://kotofucius.github.io/categories/enst/Teachers/"/>
+      <category term="Transfer Student (Anzu)" scheme="https://kotofucius.github.io/categories/enst/Transfer-Student-Anzu/"/>
     
       <category term="MaM (Mikejima Madara)" scheme="https://kotofucius.github.io/categories/enst/MaM-Mikejima-Madara/"/>
     
+      <category term="Teachers" scheme="https://kotofucius.github.io/categories/enst/Teachers/"/>
+    
       <category term="Switch" scheme="https://kotofucius.github.io/categories/enst/Switch/"/>
     
-      <category term="Yuuki Makoto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Yuuki-Makoto/"/>
+      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
     
       <category term="Aoi Hinata" scheme="https://kotofucius.github.io/categories/enst/2wink/Aoi-Hinata/"/>
-    
-      <category term="Sagami Jin" scheme="https://kotofucius.github.io/categories/enst/Teachers/Sagami-Jin/"/>
     
       <category term="Valkyrie" scheme="https://kotofucius.github.io/categories/enst/Valkyrie/"/>
     
       <category term="Aoi Yuuta" scheme="https://kotofucius.github.io/categories/enst/2wink/Aoi-Yuuta/"/>
     
+      <category term="Sagami Jin" scheme="https://kotofucius.github.io/categories/enst/Teachers/Sagami-Jin/"/>
+    
       <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
+    
+      <category term="Yuuki Makoto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Yuuki-Makoto/"/>
     
       <category term="Hidaka Hokuto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Hidaka-Hokuto/"/>
     
@@ -416,15 +416,15 @@
     
       <category term="Transfer Student (Anzu)" scheme="https://kotofucius.github.io/categories/enst/Transfer-Student-Anzu/"/>
     
-      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
-    
       <category term="Switch" scheme="https://kotofucius.github.io/categories/enst/Switch/"/>
     
-      <category term="Yuuki Makoto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Yuuki-Makoto/"/>
+      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
     
       <category term="Aoba Tsumugi" scheme="https://kotofucius.github.io/categories/enst/Switch/Aoba-Tsumugi/"/>
     
       <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
+    
+      <category term="Yuuki Makoto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Yuuki-Makoto/"/>
     
       <category term="Hidaka Hokuto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Hidaka-Hokuto/"/>
     
@@ -547,9 +547,9 @@
     
       <category term="enst" scheme="https://kotofucius.github.io/categories/enst/"/>
     
-      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
-    
       <category term="Switch" scheme="https://kotofucius.github.io/categories/enst/Switch/"/>
+    
+      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
     
       <category term="Yuuki Makoto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Yuuki-Makoto/"/>
     
@@ -596,9 +596,9 @@
     
       <category term="Ran Nagisa" scheme="https://kotofucius.github.io/categories/enst/Eden/Adam/Ran-Nagisa/"/>
     
-      <category term="fine" scheme="https://kotofucius.github.io/categories/enst/fine/"/>
-    
       <category term="Saegusa Ibara" scheme="https://kotofucius.github.io/categories/enst/Eden/Adam/Saegusa-Ibara/"/>
+    
+      <category term="fine" scheme="https://kotofucius.github.io/categories/enst/fine/"/>
     
       <category term="Tenshouin Eichi" scheme="https://kotofucius.github.io/categories/enst/fine/Tenshouin-Eichi/"/>
     
@@ -633,15 +633,15 @@
     
       <category term="enst" scheme="https://kotofucius.github.io/categories/enst/"/>
     
-      <category term="Transfer Student (Anzu)" scheme="https://kotofucius.github.io/categories/enst/Transfer-Student-Anzu/"/>
-    
       <category term="2wink" scheme="https://kotofucius.github.io/categories/enst/2wink/"/>
+    
+      <category term="Transfer Student (Anzu)" scheme="https://kotofucius.github.io/categories/enst/Transfer-Student-Anzu/"/>
     
       <category term="Switch" scheme="https://kotofucius.github.io/categories/enst/Switch/"/>
     
-      <category term="UNDEAD" scheme="https://kotofucius.github.io/categories/enst/UNDEAD/"/>
-    
       <category term="Aoi Hinata" scheme="https://kotofucius.github.io/categories/enst/2wink/Aoi-Hinata/"/>
+    
+      <category term="UNDEAD" scheme="https://kotofucius.github.io/categories/enst/UNDEAD/"/>
     
       <category term="Harukawa Sora" scheme="https://kotofucius.github.io/categories/enst/Switch/Harukawa-Sora/"/>
     
@@ -680,19 +680,19 @@
     
       <category term="Transfer Student (Anzu)" scheme="https://kotofucius.github.io/categories/enst/Transfer-Student-Anzu/"/>
     
-      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
-    
       <category term="Teachers" scheme="https://kotofucius.github.io/categories/enst/Teachers/"/>
     
-      <category term="UNDEAD" scheme="https://kotofucius.github.io/categories/enst/UNDEAD/"/>
+      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
     
       <category term="Sagami Jin" scheme="https://kotofucius.github.io/categories/enst/Teachers/Sagami-Jin/"/>
     
       <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
     
-      <category term="Oogami Kouga" scheme="https://kotofucius.github.io/categories/enst/UNDEAD/Oogami-Kouga/"/>
+      <category term="UNDEAD" scheme="https://kotofucius.github.io/categories/enst/UNDEAD/"/>
     
       <category term="Otogari Adonis" scheme="https://kotofucius.github.io/categories/enst/UNDEAD/Otogari-Adonis/"/>
+    
+      <category term="Oogami Kouga" scheme="https://kotofucius.github.io/categories/enst/UNDEAD/Oogami-Kouga/"/>
     
       <category term="Isara Mao" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Isara-Mao/"/>
     
@@ -725,11 +725,11 @@
     
       <category term="Transfer Student (Anzu)" scheme="https://kotofucius.github.io/categories/enst/Transfer-Student-Anzu/"/>
     
-      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
-    
       <category term="MaM (Mikejima Madara)" scheme="https://kotofucius.github.io/categories/enst/MaM-Mikejima-Madara/"/>
     
       <category term="Switch" scheme="https://kotofucius.github.io/categories/enst/Switch/"/>
+    
+      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
     
       <category term="Aoba Tsumugi" scheme="https://kotofucius.github.io/categories/enst/Switch/Aoba-Tsumugi/"/>
     
@@ -780,27 +780,27 @@
     
       <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
     
-      <category term="Yuuki Makoto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Yuuki-Makoto/"/>
-    
       <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
+    
+      <category term="Yuuki Makoto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Yuuki-Makoto/"/>
     
       <category term="Hidaka Hokuto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Hidaka-Hokuto/"/>
     
-      <category term="knights" scheme="https://kotofucius.github.io/categories/enst/knights/"/>
-    
       <category term="Eden" scheme="https://kotofucius.github.io/categories/enst/Eden/"/>
     
-      <category term="Sena Izumi" scheme="https://kotofucius.github.io/categories/enst/knights/Sena-Izumi/"/>
+      <category term="knights" scheme="https://kotofucius.github.io/categories/enst/knights/"/>
     
       <category term="Adam" scheme="https://kotofucius.github.io/categories/enst/Eden/Adam/"/>
+    
+      <category term="Sena Izumi" scheme="https://kotofucius.github.io/categories/enst/knights/Sena-Izumi/"/>
     
       <category term="Ran Nagisa" scheme="https://kotofucius.github.io/categories/enst/Eden/Adam/Ran-Nagisa/"/>
     
       <category term="Isara Mao" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Isara-Mao/"/>
     
-      <category term="fine" scheme="https://kotofucius.github.io/categories/enst/fine/"/>
-    
       <category term="Saegusa Ibara" scheme="https://kotofucius.github.io/categories/enst/Eden/Adam/Saegusa-Ibara/"/>
+    
+      <category term="fine" scheme="https://kotofucius.github.io/categories/enst/fine/"/>
     
       <category term="Sakuma Ritsu" scheme="https://kotofucius.github.io/categories/enst/knights/Sakuma-Ritsu/"/>
     
@@ -847,13 +847,13 @@
     
       <category term="Transfer Student (Anzu)" scheme="https://kotofucius.github.io/categories/enst/Transfer-Student-Anzu/"/>
     
-      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
-    
       <category term="Teachers" scheme="https://kotofucius.github.io/categories/enst/Teachers/"/>
     
-      <category term="UNDEAD" scheme="https://kotofucius.github.io/categories/enst/UNDEAD/"/>
+      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
     
       <category term="Sagami Jin" scheme="https://kotofucius.github.io/categories/enst/Teachers/Sagami-Jin/"/>
+    
+      <category term="UNDEAD" scheme="https://kotofucius.github.io/categories/enst/UNDEAD/"/>
     
       <category term="Hidaka Hokuto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Hidaka-Hokuto/"/>
     
@@ -863,9 +863,9 @@
     
       <category term="Ra*bits" scheme="https://kotofucius.github.io/categories/enst/Ra-bits/"/>
     
-      <category term="fine" scheme="https://kotofucius.github.io/categories/enst/fine/"/>
-    
       <category term="Shino Hajime" scheme="https://kotofucius.github.io/categories/enst/Ra-bits/Shino-Hajime/"/>
+    
+      <category term="fine" scheme="https://kotofucius.github.io/categories/enst/fine/"/>
     
       <category term="Sakuma Ritsu" scheme="https://kotofucius.github.io/categories/enst/knights/Sakuma-Ritsu/"/>
     
@@ -900,15 +900,15 @@
     
       <category term="Transfer Student (Anzu)" scheme="https://kotofucius.github.io/categories/enst/Transfer-Student-Anzu/"/>
     
-      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
-    
       <category term="Switch" scheme="https://kotofucius.github.io/categories/enst/Switch/"/>
     
-      <category term="Yuuki Makoto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Yuuki-Makoto/"/>
+      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
     
       <category term="Aoba Tsumugi" scheme="https://kotofucius.github.io/categories/enst/Switch/Aoba-Tsumugi/"/>
     
       <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
+    
+      <category term="Yuuki Makoto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Yuuki-Makoto/"/>
     
       <category term="Hidaka Hokuto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Hidaka-Hokuto/"/>
     
@@ -920,9 +920,9 @@
     
       <category term="Isara Mao" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Isara-Mao/"/>
     
-      <category term="fine" scheme="https://kotofucius.github.io/categories/enst/fine/"/>
-    
       <category term="Saegusa Ibara" scheme="https://kotofucius.github.io/categories/enst/Eden/Adam/Saegusa-Ibara/"/>
+    
+      <category term="fine" scheme="https://kotofucius.github.io/categories/enst/fine/"/>
     
       <category term="Fushimi Yuzuru" scheme="https://kotofucius.github.io/categories/enst/fine/Fushimi-Yuzuru/"/>
     
@@ -957,23 +957,23 @@
     
       <category term="Transfer Student (Anzu)" scheme="https://kotofucius.github.io/categories/enst/Transfer-Student-Anzu/"/>
     
-      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
-    
       <category term="Switch" scheme="https://kotofucius.github.io/categories/enst/Switch/"/>
     
-      <category term="Yuuki Makoto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Yuuki-Makoto/"/>
-    
-      <category term="UNDEAD" scheme="https://kotofucius.github.io/categories/enst/UNDEAD/"/>
+      <category term="Trickstar" scheme="https://kotofucius.github.io/categories/enst/Trickstar/"/>
     
       <category term="Aoba Tsumugi" scheme="https://kotofucius.github.io/categories/enst/Switch/Aoba-Tsumugi/"/>
     
       <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
     
+      <category term="UNDEAD" scheme="https://kotofucius.github.io/categories/enst/UNDEAD/"/>
+    
+      <category term="Yuuki Makoto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Yuuki-Makoto/"/>
+    
       <category term="Hidaka Hokuto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Hidaka-Hokuto/"/>
     
-      <category term="Sakuma Rei" scheme="https://kotofucius.github.io/categories/enst/UNDEAD/Sakuma-Rei/"/>
-    
       <category term="Eden" scheme="https://kotofucius.github.io/categories/enst/Eden/"/>
+    
+      <category term="Sakuma Rei" scheme="https://kotofucius.github.io/categories/enst/UNDEAD/Sakuma-Rei/"/>
     
       <category term="Isara Mao" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Isara-Mao/"/>
     
