@@ -40,9 +40,9 @@
     
       <category term="Fujii Shizuku" scheme="https://kotofucius.github.io/categories/engr/Fujii-Shizuku/"/>
     
-      <category term="Minami Natsumi" scheme="https://kotofucius.github.io/categories/engr/Minami-Natsumi/"/>
-    
       <category term="Tsukinaga Ruka" scheme="https://kotofucius.github.io/categories/engr/Tsukinaga-Ruka/"/>
+    
+      <category term="Minami Natsumi" scheme="https://kotofucius.github.io/categories/engr/Minami-Natsumi/"/>
     
       <category term="Yogiri Hayate" scheme="https://kotofucius.github.io/categories/engr/Yogiri-Hayate/"/>
     
@@ -89,9 +89,9 @@
     
       <category term="Konan Yako" scheme="https://kotofucius.github.io/categories/engr/Konan-Yako/"/>
     
-      <category term="Fujii Shizuku" scheme="https://kotofucius.github.io/categories/engr/Fujii-Shizuku/"/>
-    
       <category term="Kuromori Suzu" scheme="https://kotofucius.github.io/categories/engr/Kuromori-Suzu/"/>
+    
+      <category term="Fujii Shizuku" scheme="https://kotofucius.github.io/categories/engr/Fujii-Shizuku/"/>
     
       <category term="Yakumo Chizuru" scheme="https://kotofucius.github.io/categories/engr/Yakumo-Chizuru/"/>
     
@@ -165,9 +165,9 @@
     
       <category term="Konan Yako" scheme="https://kotofucius.github.io/categories/engr/Konan-Yako/"/>
     
-      <category term="Angie (Anzu)" scheme="https://kotofucius.github.io/categories/engr/Angie-Anzu/"/>
-    
       <category term="Kuromori Suzu" scheme="https://kotofucius.github.io/categories/engr/Kuromori-Suzu/"/>
+    
+      <category term="Angie (Anzu)" scheme="https://kotofucius.github.io/categories/engr/Angie-Anzu/"/>
     
       <category term="Yakumo Chizuru" scheme="https://kotofucius.github.io/categories/engr/Yakumo-Chizuru/"/>
     
@@ -202,11 +202,11 @@
     
       <category term="Konan Yako" scheme="https://kotofucius.github.io/categories/engr/Konan-Yako/"/>
     
+      <category term="Kuromori Suzu" scheme="https://kotofucius.github.io/categories/engr/Kuromori-Suzu/"/>
+    
       <category term="Enjouji Reika" scheme="https://kotofucius.github.io/categories/engr/Enjouji-Reika/"/>
     
       <category term="Angie (Anzu)" scheme="https://kotofucius.github.io/categories/engr/Angie-Anzu/"/>
-    
-      <category term="Kuromori Suzu" scheme="https://kotofucius.github.io/categories/engr/Kuromori-Suzu/"/>
     
       <category term="Yakumo Chizuru" scheme="https://kotofucius.github.io/categories/engr/Yakumo-Chizuru/"/>
     
@@ -243,9 +243,9 @@
     
       <category term="Sagami Jin" scheme="https://kotofucius.github.io/categories/enst/Teachers/Sagami-Jin/"/>
     
-      <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
-    
       <category term="Hidaka Hokuto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Hidaka-Hokuto/"/>
+    
+      <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
     
       <category term="Hidaka Seiya" scheme="https://kotofucius.github.io/categories/enst/Teachers/Hidaka-Seiya/"/>
     
@@ -286,9 +286,9 @@
     
       <category term="Switch" scheme="https://kotofucius.github.io/categories/enst/Switch/"/>
     
-      <category term="Valkyrie" scheme="https://kotofucius.github.io/categories/enst/Valkyrie/"/>
-    
       <category term="Sagami Jin" scheme="https://kotofucius.github.io/categories/enst/Teachers/Sagami-Jin/"/>
+    
+      <category term="Valkyrie" scheme="https://kotofucius.github.io/categories/enst/Valkyrie/"/>
     
       <category term="Hidaka Hokuto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Hidaka-Hokuto/"/>
     
@@ -351,23 +351,23 @@
     
       <category term="Teachers" scheme="https://kotofucius.github.io/categories/enst/Teachers/"/>
     
-      <category term="MaM (Mikejima Madara)" scheme="https://kotofucius.github.io/categories/enst/MaM-Mikejima-Madara/"/>
-    
       <category term="2wink" scheme="https://kotofucius.github.io/categories/enst/2wink/"/>
+    
+      <category term="MaM (Mikejima Madara)" scheme="https://kotofucius.github.io/categories/enst/MaM-Mikejima-Madara/"/>
     
       <category term="Switch" scheme="https://kotofucius.github.io/categories/enst/Switch/"/>
     
       <category term="Yuuki Makoto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Yuuki-Makoto/"/>
     
-      <category term="Valkyrie" scheme="https://kotofucius.github.io/categories/enst/Valkyrie/"/>
-    
       <category term="Sagami Jin" scheme="https://kotofucius.github.io/categories/enst/Teachers/Sagami-Jin/"/>
     
       <category term="Aoi Yuuta" scheme="https://kotofucius.github.io/categories/enst/2wink/Aoi-Yuuta/"/>
     
-      <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
+      <category term="Valkyrie" scheme="https://kotofucius.github.io/categories/enst/Valkyrie/"/>
     
       <category term="Hidaka Hokuto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Hidaka-Hokuto/"/>
+    
+      <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
     
       <category term="Aoi Hinata" scheme="https://kotofucius.github.io/categories/enst/2wink/Aoi-Hinata/"/>
     
@@ -424,9 +424,9 @@
     
       <category term="Aoba Tsumugi" scheme="https://kotofucius.github.io/categories/enst/Switch/Aoba-Tsumugi/"/>
     
-      <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
-    
       <category term="Hidaka Hokuto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Hidaka-Hokuto/"/>
+    
+      <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
     
       <category term="Harukawa Sora" scheme="https://kotofucius.github.io/categories/enst/Switch/Harukawa-Sora/"/>
     
@@ -733,9 +733,9 @@
     
       <category term="Aoba Tsumugi" scheme="https://kotofucius.github.io/categories/enst/Switch/Aoba-Tsumugi/"/>
     
-      <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
-    
       <category term="Hidaka Hokuto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Hidaka-Hokuto/"/>
+    
+      <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
     
       <category term="Akatsuki" scheme="https://kotofucius.github.io/categories/enst/Akatsuki/"/>
     
@@ -782,9 +782,9 @@
     
       <category term="Yuuki Makoto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Yuuki-Makoto/"/>
     
-      <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
-    
       <category term="Hidaka Hokuto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Hidaka-Hokuto/"/>
+    
+      <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
     
       <category term="Eden" scheme="https://kotofucius.github.io/categories/enst/Eden/"/>
     
@@ -798,11 +798,11 @@
     
       <category term="Isara Mao" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Isara-Mao/"/>
     
-      <category term="Sakuma Ritsu" scheme="https://kotofucius.github.io/categories/enst/knights/Sakuma-Ritsu/"/>
-    
       <category term="Saegusa Ibara" scheme="https://kotofucius.github.io/categories/enst/Eden/Adam/Saegusa-Ibara/"/>
     
       <category term="fine" scheme="https://kotofucius.github.io/categories/enst/fine/"/>
+    
+      <category term="Sakuma Ritsu" scheme="https://kotofucius.github.io/categories/enst/knights/Sakuma-Ritsu/"/>
     
       <category term="Eve" scheme="https://kotofucius.github.io/categories/enst/Eden/Eve/"/>
     
@@ -859,15 +859,15 @@
     
       <category term="knights" scheme="https://kotofucius.github.io/categories/enst/knights/"/>
     
-      <category term="Ra*bits" scheme="https://kotofucius.github.io/categories/enst/Ra-bits/"/>
-    
       <category term="Otogari Adonis" scheme="https://kotofucius.github.io/categories/enst/UNDEAD/Otogari-Adonis/"/>
+    
+      <category term="Ra*bits" scheme="https://kotofucius.github.io/categories/enst/Ra-bits/"/>
     
       <category term="Shino Hajime" scheme="https://kotofucius.github.io/categories/enst/Ra-bits/Shino-Hajime/"/>
     
-      <category term="Sakuma Ritsu" scheme="https://kotofucius.github.io/categories/enst/knights/Sakuma-Ritsu/"/>
-    
       <category term="fine" scheme="https://kotofucius.github.io/categories/enst/fine/"/>
+    
+      <category term="Sakuma Ritsu" scheme="https://kotofucius.github.io/categories/enst/knights/Sakuma-Ritsu/"/>
     
       <category term="Tenshouin Eichi" scheme="https://kotofucius.github.io/categories/enst/fine/Tenshouin-Eichi/"/>
     
@@ -908,9 +908,9 @@
     
       <category term="Aoba Tsumugi" scheme="https://kotofucius.github.io/categories/enst/Switch/Aoba-Tsumugi/"/>
     
-      <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
-    
       <category term="Hidaka Hokuto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Hidaka-Hokuto/"/>
+    
+      <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
     
       <category term="Eden" scheme="https://kotofucius.github.io/categories/enst/Eden/"/>
     
@@ -965,9 +965,9 @@
     
       <category term="Aoba Tsumugi" scheme="https://kotofucius.github.io/categories/enst/Switch/Aoba-Tsumugi/"/>
     
-      <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
-    
       <category term="Hidaka Hokuto" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Hidaka-Hokuto/"/>
+    
+      <category term="Akehoshi Subaru" scheme="https://kotofucius.github.io/categories/enst/Trickstar/Akehoshi-Subaru/"/>
     
       <category term="UNDEAD" scheme="https://kotofucius.github.io/categories/enst/UNDEAD/"/>
     
